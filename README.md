@@ -17,7 +17,7 @@ License: https://github.com/yogurtsyum/qbot/blob/master/LICENSE
 Acknowledgements: https://github.com/yogurtsyum/qbot/blob/master/acknowledgements.md  
 Contributors: https://github.com/yogurtsyum/qbot/graphs/contributors   
 
-Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and token away from anyone you don't trust. qbot uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. Do not share your config.json file with anyone once filled out.
+Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and token away from anyone you don't trust. rbot uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. Do not share your config.json file with anyone once filled out.
 
 Please also note that Discord has a TOS for its API: https://discord.com/developers/docs/legal
 
