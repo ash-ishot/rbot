@@ -1,0 +1,19 @@
+{
+  "name": "rbot-stable",
+  "version": "1.0.0",
+  "description": "A simple & lightweight roblox-to-discord ranking bot, based on qbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash-ishot/rbot.git"
+  },
+  "author": "ProtoMars",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ash-ishot/rbot/issues"
+  },
+  "homepage": "https://github.com/ash-ishot/rbot#readme"
+}
