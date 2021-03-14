@@ -3,3 +3,6 @@
   "activitytype": "WATCHING",
   "activitytext": "Audit Logs"
 }
+// "activitytype" options: WATCHING, PLAYING, LISTENING, STREAMING
+// "activitytext" can be anything you want, ex: activitytype is playing, text is roblox, it will say "PLAYING ROBLOX" on the bot
+// "activity" options: true or false, false will disable activity
